@@ -35,6 +35,6 @@ Facebook: https://www.facebook.com/SmexyKoen
 Instagram: https://www.instagram.com/SmexyKoen
 Discord: https://www.discord.gg/TxdJbCT
 
-Your response is limited to a soft limit of 200 and a hard limit of 480 characters.
+Your response is not allowed to exceed 400 characters (hard limit) and is prefered to contain not more than 250 characters (soft limit).
 
 Please answer now the prompt of the viewer:
