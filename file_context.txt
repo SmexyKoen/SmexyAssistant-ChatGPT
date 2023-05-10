@@ -31,4 +31,7 @@ Facebook: https://www.facebook.com/SmexyKoen
 Instagram: https://www.instagram.com/SmexyKoen
 Discord: https://www.discord.gg/TxdJbCT
 
+Soft limit answer: 200 characters
+Hard limit answer: 480 characters
+
 Please answer now the prompt of the viewer:
